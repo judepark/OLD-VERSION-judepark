@@ -71,26 +71,6 @@ h1 {
   padding-top: 0;
   margin-bottom: 1rem;
   color: inherit;
-  font-family: 'Crimson Text', serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  letter-spacing: -.01em;
-  font-weight:400;
-  word-wrap: break-word;
-  font-kerning: normal;
-  text-rendering: optimizeLegibility;
-  font-size: 1.8rem;
-  line-height: 1.1;
-}
-h2 {
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
-  margin-bottom: 1rem;
-  color: inherit;
   font-family: 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -98,13 +78,33 @@ h2 {
   font-kerning: normal;
   text-rendering: optimizeLegibility;
   font-size: 1.5rem;
-  line-height: 1.1;
+  line-height: 1.35;
   letter-spacing: .03em;
+}
+h2 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2.45rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-bottom: 1rem;
+  color: inherit;
+  font-family: 'Crimson Text', serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  letter-spacing: -.01em;
+  font-weight: bold;
+  word-wrap: break-word;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  font-size: 1.5rem;
+  line-height: 1.35;
 }
 h3 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 1.45rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -117,8 +117,28 @@ h3 {
   word-wrap: break-word;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
-  font-size: 1.3rem;
-  line-height: 1.1;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  letter-spacing: .03em;
+}
+h4 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-bottom: 1rem;
+  color: inherit;
+  font-family: 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-weight: normal;
+  word-wrap: break-word;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  font-size: 1.1rem;
+  line-height: 1.65;
   letter-spacing: .03em;
 }
 hgroup {
@@ -148,14 +168,14 @@ hgroup {
   font-feature-settings: 'kern', 'liga', 'clig', 'calt';
 }
 .footnote-backref {
-  margin: 0;
+  text-decoration: underline;
   color: hsla(0, 0%, 0%, 0.54);
   font-family: 'Crimson Text', serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-size: calc( 17px + (22 - 17) * (100vw - 400px) / (1300 - 400) );
   line-height: 1.30;
   letter-spacing: -.009em;
-  font-weight: normal;
+  font-weight: bold;
   word-wrap: break-word;
   font-kerning: normal;
   -moz-font-feature-settings: 'kern', 'liga', 'clig', 'calt';
@@ -169,10 +189,10 @@ hgroup {
   color: hsla(0, 0%, 0%, 0.54);
   font-family: 'Crimson Text', serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-size: calc( 15px + (20 - 15) * (100vw - 400px) / (1300 - 400) );
+  font-size: calc( 13px + (18 - 13) * (100vw - 400px) / (1300 - 400) );
   line-height: 1.30;
   letter-spacing: -.009em;
-  font-weight: normal;
+  font-weight: bold;
   word-wrap: break-word;
   font-kerning: normal;
   -moz-font-feature-settings: 'kern', 'liga', 'clig', 'calt';
@@ -215,7 +235,7 @@ small {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 0.45em;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
@@ -225,10 +245,6 @@ small {
   word-wrap: break-word;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
-
-
-
-
 }
 sub,
 sup {
@@ -337,12 +353,11 @@ a {
   -webkit-text-decoration-skip: objects; 
   margin: -0.5em; padding: 0.5em; position: relative;
 }
-p > a {
+p > a, h1 > a, h2 > a, h3 > a, h4 > a {
   color: hsla(0, 0%, 0%, 0.84);
   background-color: transparent;
-  text-decoration: none;
-  -webkit-text-decoration-skip: objects;
   text-decoration: underline;
+  -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
@@ -353,11 +368,23 @@ p > a:active,
 p > a:hover {
   outline-width: 0;
   color: hsla(45, 100%, 49%, 1.0);
-  background-image: linear-gradient(hsla(45, 100%, 49%, 1.0), hsla(45, 100%, 49%, 1.0), 100);
-  background-repeat: no-repeat;
-  background-size: 100% 0.05em;
-  background-position: 0 90%;
 }
+
+#fn-1 > p > a, #fn-2 > p > a, #fn-3 > p > a, #fn-4 > p > a, 
+#fn-5 > p > a, #fn-6 > p > a, #fn-7 > p > a, #fn-8 > p > a, 
+#fn-9 > p > a, #fn-10 > p > a {
+  color: hsla(0, 0%, 0%, 0.54);
+  background-color: transparent;
+  text-decoration: underline;
+  -webkit-text-decoration-skip: objects;
+}
+#fn-1 > p > a:hover, #fn-2 > p > a:hover, #fn-3 > p > a:hover, #fn-4 > p > a:hover, 
+#fn-5 > p > a:hover, #fn-6 > p > a:hover, #fn-7 > p > a:hover, #fn-8 > p > a:hover, 
+#fn-9 > p > a:hover, #fn-10 > p > a:hover {
+  outline-width: 0;
+  color: hsla(45, 100%, 49%, 1.0);
+}
+
 
 /* Line Breaks */
 hr {
@@ -366,7 +393,7 @@ hr {
   overflow: hidden;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 1rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -396,7 +423,7 @@ footer {
   text-rendering: optimizeLegibility;
 }
 .globalnav {
-  font: 90%/0.6em 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font: 100%/0.6em 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   letter-spacing: -.02em;
   margin-left: 0;
@@ -430,6 +457,10 @@ footer {
   height: 1.5px;
 }
 /* Specials: grid based main photo display */
+
+#aboutpic {
+  filter: blur(6.5px);
+}
 .imageall {
   display: grid;
   grid-template-columns: repeat(8, auto);
@@ -486,27 +517,45 @@ footer {
   z-index: -1;
 }
 .tab label {
-  position: relative;
-  display: block;
-  line-height: 1.1;
   cursor: pointer;
-  margin-top: 1.05rem;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
   margin-bottom: 1rem;
   color: inherit;
   font-family: 'Crimson Text', serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  letter-spacing: -.01em;
+  font-weight: bold;
+  word-wrap: break-word;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  font-size: 1.5rem;
+  line-height: 1.1;
+}
+.tab-content {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.2rem;
+  margin-bottom: 0;
+  color: inherit;
+  font-family: 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
-  font-size: 1.8rem;
-  letter-spacing: -.01em;
-
-
-
-
-}
-.tab-content {
+  font-size: 1.1rem;
+  line-height: 1.75;
+  letter-spacing: .03em;
   max-height: 0;
   overflow: hidden;
   -webkit-transition: max-height .35s;
@@ -515,7 +564,7 @@ footer {
 }
 .tab-content p {
   margin: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
 }
 /* Specials: Collapse Text on Contact Page :checked */
 .tab input:checked ~ .tab-content {
@@ -528,14 +577,15 @@ footer {
   top: 0;
   display: block;
   width: 3em;
-  line-height: 2em;
+  line-height: 1em;
   text-align: center;
   -webkit-transition: all .35s;
   -o-transition: all .35s;
   transition: all .35s;
 }
 .tab input[type=checkbox] + label::after {
-
+  content: '+';
+  position: absolute;
 }
 .tab input[type=checkbox] + label:hover {
   color:hsla(45, 100%, 49%, 1.0);
@@ -551,11 +601,12 @@ footer {
 }
 
 /* Images and Media */
+
 img {
   max-width: 100%;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 1.45rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -632,6 +683,7 @@ th {
   padding-right: 0.96667rem;
   padding-top: 0.725rem;
   padding-bottom: calc(0.725rem - 1px);
+  line-height: 1.45rem;
 }
 th:first-child,
 td:first-child {
@@ -654,6 +706,9 @@ table {
   line-height: 1.45rem;
   border-collapse: collapse;
   width: 100%;
+  font: 70%/0.6em 'Product Sans', sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  letter-spacing: .03em;
 }
 fieldset {
   margin-left: 0;

@@ -28,17 +28,17 @@ const Layout = ({ children }) => (
           }}
         >
           {children}
-          <hr class="globalnavline" 
+          <br />
+      <hr class="globalnavline" 
           style={{ 
             width: '31%',
             textAlign: 'right',
             position: 'relative',
-            margin: '-15px 0 0 20px',
-            float: 'right', 
-
+            margin: '-14px 0 0 20px',
+            float: 'right',
       }}>
       </hr>
-          <footer style={{textAlign: 'right'}}>
+          <footer style={{textAlign: 'right', fontSize: '100%'}}>
             © {new Date().getFullYear()} Jude Park
             <br />
             {` `}

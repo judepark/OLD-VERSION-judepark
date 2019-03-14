@@ -13,11 +13,11 @@ if you want the excerpt/date shown:
 const StoriesPage = ({data}) => (
   <Layout>
     <SEO title="stories" keywords={[`gatsby`, `application`, `react`]} />
-    <footer style={{marginTop: '0.45rem', fontSize: '85%'}}>Stories</footer> 
+    <footer style={{marginTop: '0.45rem'}}>Stories</footer> 
     {data.allMarkdownRemark.edges.map(post => (
         <div key={ post.node.id}>
-            <Link to={post.node.frontmatter.path}><p style={{marginBottom:'-0.2em', marginTop: '-0.2em'}}>{post.node.frontmatter.title}</p></Link>
-            <small style={{display: 'inline'}}>{post.node.frontmatter.date} · {post.node.fields.readingTime.text}</small>
+            <Link to={post.node.frontmatter.path}><h3 style={{marginBottom:'-0.2em', marginTop: '-0.2em'}}>{post.node.frontmatter.title}</h3></Link>
+            <small style={{display: 'inline'}}>{post.node.fields.readingTime.text} · {post.node.frontmatter.date}</small>
         </div>
     ))}
     <br />

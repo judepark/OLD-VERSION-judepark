@@ -7,9 +7,9 @@ export default function Template({data}) {
 
     return(<Layout>
         <div>
-            <footer style={{marginTop: '0.45rem', fontSize: '85%'}}>Products</footer>
+            <footer style={{marginTop: '0.45rem'}}>Products</footer>
             <br />
-            <p>{post.frontmatter.title}</p>
+            <h1>{post.frontmatter.title}</h1>
 
             <div dangerouslySetInnerHTML={{__html: post.html}} />
         </div>
