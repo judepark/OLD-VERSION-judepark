@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Jude Park`,
-    description: `The personal site of Jude Park, an interaction designer.`,
+    description: `The personal site of Jude Park, a designer.`,
     author: `Jude Park`,
   },
   plugins: [
@@ -56,15 +56,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `stories`,
-        path: `${__dirname}/src/stories`,
+        name: `research`,
+        path: `${__dirname}/src/research`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `products`,
-        path: `${__dirname}/src/products`,
+        name: `portfolio`,
+        path: `${__dirname}/src/portfolio`,
       },
     },
     'gatsby-transformer-remark',

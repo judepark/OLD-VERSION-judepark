@@ -3,8 +3,8 @@ const path = require('path');
 exports.createPages = ({actions, graphql}) => {
     const { createPage } = actions
 
-    const storyTemplate = path.resolve('src/components/stories-template.js');
-    const productTemplate = path.resolve('src/components/products-template.js');
+    const researchTemplate = path.resolve('src/components/research-template.js');
+    const portfolioTemplate = path.resolve('src/components/portfolio-template.js');
 
     return graphql(`
     {
@@ -15,11 +15,12 @@ exports.createPages = ({actions, graphql}) => {
                 id 
                 frontmatter {
                   path
-                  title
-                  author
                   date
-                  template
+                  title
                   description
+                  author
+                  template
+                  tags
                 }
               }
             }
@@ -31,19 +32,19 @@ exports.createPages = ({actions, graphql}) => {
         }
  
         res.data.allMarkdownRemark.edges.forEach(({ node }) => {
-            if (node.frontmatter.template === 'product') {
+            if (node.frontmatter.template === 'portfolio') {
                 createPage({
                     path: node.frontmatter.path,
-                    component: productTemplate,
+                    component: portfolioTemplate,
             })
         }
         }),
 
         res.data.allMarkdownRemark.edges.forEach(({ node }) => {
-            if (node.frontmatter.template === 'stories') {
+            if (node.frontmatter.template === 'research') {
                 createPage({
                     path: node.frontmatter.path,
-                    component: storyTemplate,
+                    component: researchTemplate,
             })
         }
     })

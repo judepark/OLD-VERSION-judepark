@@ -32,16 +32,15 @@ const Header = ({ siteTitle }) => (
         <li style={{
           marginRight: '-0.5em',
           padding: '0 2em 0 0',
-          textTransform: 'none',
         }}>
-        <a href="/products">Products</a>
+        <a href="/portfolio">Portfolio</a>
         </li>
 
         <li style={{
           marginRight: '-0.5em',
           padding: '0 2em 0 0',
         }}>
-        <a href="/stories">Stories</a>
+        <a href="/research">Research</a>
         </li>
 
         <li>
