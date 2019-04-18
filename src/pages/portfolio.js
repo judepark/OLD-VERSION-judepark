@@ -65,33 +65,7 @@ export const pageQuery = graphql`
             }
     }
 
-    query TagIndexQuery {
-      allMarkdownRemark 
-      (sort: { order: ASC, fields: [frontmatter___tags] } filter: { fileAbsolutePath: {regex : "/src\/products/"} })
-      {
-        edges {
-          node {
-              id
-              frontmatter {
-              path
-              title
-              date(formatString: "MMM YYYY")
-              author
-              description
-              tags
-              image {
-                childImageSharp{
-                    sizes(maxWidth: 725, maxHeight:150, quality: 100) {
-                        ...GatsbyImageSharpSizes
-                    }
-                }
-            }
-            }
-            excerpt(pruneLength: 50, format: PLAIN)
-          }
-        }
-      }
-    }
+
     
 
 `
