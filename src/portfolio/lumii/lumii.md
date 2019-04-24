@@ -4,7 +4,7 @@ date: "2017-08-23"
 title: "Lumii"
 description: "RBC's Personalized Career Agent Chatbot"
 author: "Jude Park"
-image: "lumii3.jpg"
+image: "lumii4.jpg"
 template: "portfolio"
 tags: ["Co-op Project"]
 ---

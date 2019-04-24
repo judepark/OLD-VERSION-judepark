@@ -667,6 +667,12 @@ figure {
   }
 }
 
+@media only screen and (max-width: 725px) {
+  #aboutright {
+    max-width: 60%;
+  }
+}
+
 /*Tables Fieldsets, Buttons and others */
 thead {
   text-align: left;

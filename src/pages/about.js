@@ -19,28 +19,29 @@ const AboutPage = () => (
       🖺 <a style={{textDecoration: 'underline'}} href="..\..\Jude Park CV.pdf" title="Jude's CV" rel="noopener noreferrer" target="_blank">CV</a> 
       <br/>
       <br/>
-      Work:
+      Websites:
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://www.fairdesign.ca/" title="Fair Design Research Site" rel="noopener noreferrer" target="_blank">Fair Design Research</a>
+      🗖 <a style={{textDecoration: 'underline'}} href="https://www.fairdesign.ca/" title="Fair Design Research Site" rel="noopener noreferrer" target="_blank">Fair Design</a>
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://www.whyistheskybluecomic.com/" title="Hey Jude~ Webcomics" rel="noopener noreferrer" target="_blank"> Hey Jude~ Webcomics</a>
+      🗖 <a style={{textDecoration: 'underline'}} href="https://www.whyistheskybluecomic.com/" title="Hey Jude~ Webcomics" rel="noopener noreferrer" target="_blank"> Hey Jude Comics</a>
       <br/>
       <br/>
       More:
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://medium.com/@judepark" title="Jude's Medium Page'" rel="noopener noreferrer" target="_blank">Medium Articles</a>
+      🗐 <a style={{textDecoration: 'underline'}} href="https://medium.com/@judepark" title="Jude's Medium Page'" rel="noopener noreferrer" target="_blank">Medium Articles</a>
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://dribbble.com/judepark" title="Jude's Dribble Page'" rel="noopener noreferrer" target="_blank">Art Works</a>
+      🖼 <a style={{textDecoration: 'underline'}} href="https://dribbble.com/judepark" title="Jude's Dribble Page'" rel="noopener noreferrer" target="_blank">Art Works</a>
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://issuu.com/judepark" title="Jude's Books" rel="noopener noreferrer" target="_blank">Self-Published Books</a>
+      🕮 <a style={{textDecoration: 'underline'}} href="https://issuu.com/judepark" title="Jude's Books" rel="noopener noreferrer" target="_blank">Books</a>
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://soundcloud.com/judepark" title="Jude's Podcasts" rel="noopener noreferrer" target="_blank">Podcasts</a>
+      🕪 <a style={{textDecoration: 'underline'}} href="https://soundcloud.com/judepark" title="Jude's Podcasts" rel="noopener noreferrer" target="_blank">Podcasts</a>
       <br/>
-      <a style={{textDecoration: 'underline'}} href="https://linkedin.com/in/judepark" title="Jude's LinkedIn Page'" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+      🛉 <a style={{textDecoration: 'underline'}} href="https://linkedin.com/in/judepark" title="Jude's LinkedIn Page'" rel="noopener noreferrer" target="_blank">LinkedIn</a>
       </h3>
     </div>
 
-    <h1 style={{ display: 'inline-block', marginLeft: '1.5rem', width: '65%', marginTop: '1rem', marginBottom: '1.45rem', verticalAlign: 'top',}}>
+    <div id={"aboutright"} style={{ display: 'inline-block', marginLeft: '1.5rem', width: '65%', marginTop: '1rem', marginBottom: '1.45rem', verticalAlign: 'top',}}>
+    <h1>
     Jude is an interaction designer, fair design researcher, and doodler.
     <br/><br/>
     Jude creates products that do not hinder the user by eliminating 
@@ -53,6 +54,7 @@ const AboutPage = () => (
     <br/><br/>
     Jude is looking for the next project to collaborate on with some amazing people. <a style={{textDecoration: 'underline'}} href="mailto:jude@judepark.com" title="Jude's Email"> Let's have tea!</a>
     </h1>
+    </div>
 
 <br/>
 <br />
