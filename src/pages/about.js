@@ -27,6 +27,7 @@ const AboutPage = () => (
       <br/>
       <br/>
       More:
+      🐱 <a style={{textDecoration: 'underline'}} href="https://github.com/judepark" title="Jude's Github Page'" rel="noopener noreferrer" target="_blank">Github</a>
       <br/>
       🗐 <a style={{textDecoration: 'underline'}} href="https://medium.com/@judepark" title="Jude's Medium Page'" rel="noopener noreferrer" target="_blank">Medium Articles</a>
       <br/>
