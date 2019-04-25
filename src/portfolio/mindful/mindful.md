@@ -1,6 +1,6 @@
 ---
 path: "/mindful"
-date: "2017-12-01"
+date: "2018-04-11"
 title: "Mindful"
 description: "UX Research Project on Campus Mental Health Services"
 author: "Jude Park"

@@ -4,7 +4,7 @@ date: "2017-12-01"
 title: "Pastour"
 description: "AR Mobile Application for Immersive Learning"
 author: "Jude Park"
-image: "pastour1.jpg"
+image: "pastour.jpg"
 template: "portfolio"
 tags: ["Student Project"]
 ---
