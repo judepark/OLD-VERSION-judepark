@@ -26,7 +26,7 @@ const AboutPage = () => (
       🗖 <a style={{textDecoration: 'underline'}} href="https://www.whyistheskybluecomic.com/" title="Hey Jude~ Webcomics" rel="noopener noreferrer" target="_blank"> Hey Jude Comics</a>
       <br/>
       <br/>
-      More:
+      Hobbies:
       <br/>
       ▪ <a style={{textDecoration: 'underline'}} href="https://github.com/judepark" title="Jude's Github Page'" rel="noopener noreferrer" target="_blank">My Code</a>
       <br/>
