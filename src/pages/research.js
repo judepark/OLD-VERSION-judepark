@@ -27,6 +27,7 @@ const ResearchPage = ({data}) => (
       }}>
       </hr>
     <h3>View more on Jude's <a style={{textDecoration: 'underline'}} href="https://www.fairdesign.ca/" title="Fair Design Research Site" rel="noopener noreferrer" target="_blank">Fair Design Research site</a></h3>
+    <br />  
   </Layout>
 )
 

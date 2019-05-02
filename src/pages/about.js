@@ -28,17 +28,15 @@ const AboutPage = () => (
       <br/>
       More:
       <br/>
-      🐱 <a style={{textDecoration: 'underline'}} href="https://github.com/judepark" title="Jude's Github Page'" rel="noopener noreferrer" target="_blank">Github</a>
+      ▪ <a style={{textDecoration: 'underline'}} href="https://github.com/judepark" title="Jude's Github Page'" rel="noopener noreferrer" target="_blank">My Code</a>
       <br/>
-      🗐 <a style={{textDecoration: 'underline'}} href="https://medium.com/@judepark" title="Jude's Medium Page'" rel="noopener noreferrer" target="_blank">Medium Articles</a>
+      ▪ <a style={{textDecoration: 'underline'}} href="https://dribbble.com/judepark" title="Jude's Dribble Page'" rel="noopener noreferrer" target="_blank">My Art</a>
       <br/>
-      🖼 <a style={{textDecoration: 'underline'}} href="https://dribbble.com/judepark" title="Jude's Dribble Page'" rel="noopener noreferrer" target="_blank">Art Works</a>
+      ▪ <a style={{textDecoration: 'underline'}} href="https://issuu.com/judepark" title="Jude's Books" rel="noopener noreferrer" target="_blank">My Books</a>
       <br/>
-      🕮 <a style={{textDecoration: 'underline'}} href="https://issuu.com/judepark" title="Jude's Books" rel="noopener noreferrer" target="_blank">Books</a>
+      ▪ <a style={{textDecoration: 'underline'}} href="https://soundcloud.com/judepark" title="Jude's Podcasts" rel="noopener noreferrer" target="_blank">My Podcasts</a>
       <br/>
-      🕪 <a style={{textDecoration: 'underline'}} href="https://soundcloud.com/judepark" title="Jude's Podcasts" rel="noopener noreferrer" target="_blank">Podcasts</a>
-      <br/>
-      🛉 <a style={{textDecoration: 'underline'}} href="https://linkedin.com/in/judepark" title="Jude's LinkedIn Page'" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+      ▪ <a style={{textDecoration: 'underline'}} href="https://linkedin.com/in/judepark" title="Jude's LinkedIn Page'" rel="noopener noreferrer" target="_blank">My LinkedIn</a>
       </h3>
     </div>
 
