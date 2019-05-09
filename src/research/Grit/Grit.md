@@ -15,6 +15,9 @@ Following the KonMari philosophy, I was cleaning out the documents in my apartme
 
 ####**Triumph Award**: This award celebrates the outstanding spirit and determination of a graduating student (or students) who has overcome great personal challenges in order to achieve academic success.
 
+![grit](https://66.media.tumblr.com/5feb7d07764da32b2ae8ba7ffaafc54b/tumblr_pr9bly5MoU1taz7avo1_1280.jpg "Triumph Award Plaque")
+<small>The Triumph Award</small>
+
 In reflection of those days gone by, I am trying to understand what this award means to me today.
 
 ##The Moment I Broke Down
@@ -41,6 +44,30 @@ I don't measure strength by an amount of money or accolades. The amount of privi
 
 Somehow this small award manages to make me smile and beam with pride, every time I look up at it 🤩.
 
+##UPDATE: I Met Emily Mills - the Founder of Triumph Award
+
+> Hi, Did you by chance set up the Triumph Award at Northern Secondary School? -Jude
+
+With this random message I found Emily Mills on LinkedIn, and asked to meet her for coffee. Crazily enough, she said yes.
+
+Emily Mills is the Founder of <a href="https://howshehustles.com/" title="Link to How She Hustles Organization'" target="_blank" rel="noopener noreferrer">How She Hustles</a> - An international network that connects over 5000 diverse women through special events and social media. She is the winner of Women’s Executive Network's Top 100 Canada's Most Powerful Women Award, as well as 100 Accomplished Black Canadian (ABC) Women list. She also happened to have set up the Triumph Award in her final year in high school for future students. 
+
+Needless to say, I told all my friends about her prior to meeting her and she was practically my best friend forever.
+
+Emily was like a Seonbae (선배)[^3] to me. She was not only a fellow alumni of the same secondary school but she is an incredibly motivated and down-to-earth person who just happened to be inspiring. She was gracious enough to give me an hour and we had the most amazing conversations about our uprbringings and the current landscape for people of minority in the world today. 
+
+I can't speak for her but for me I took away 3 things from my meeting with her:
+
+1. Don't park your identity at the door when you are about to enter a room.
+2. You cannot course-correct if you don't take a step forward in life.
+3. I learned that I should keep meeting new people because I can learn a lot from potential mentors. 
+
+It's amazing how cleaning your room can lead to so much revelations and opportunities. I look forward to my next adventure. Thank you Emily for meeting with me! 
+
+![grit](https://66.media.tumblr.com/eb7af32548a77568c673df2503344a66/tumblr_pr9blqjx3t1taz7avo1_1280.jpg "Emily Mills")
+<small>My Seonbae and me</small>
+
+
 
 [^1]:
   Jane and Weston is a low-income neighborhood in Toronto with one of the lowest <a href="https://www.theglobeandmail.com/news/toronto/140-toronto-neighbourhoods-ranked-by-new-equity-score/article17407725/" title="neighbourhood equity index of Toronto" target="_blank" rel="noopener noreferrer">neighbourhood equity score</a>, with common gun and knife violence. Drake once rapped: “How did I finesse all this shit from <a href="https://genius.com/Drake-still-here-lyrics#note-9070145" title="Lyrics to 'Still Here'" target="_blank" rel="noopener noreferrer">Jane and Weston?”</a>
@@ -48,6 +75,9 @@ Somehow this small award manages to make me smile and beam with pride, every tim
 [^2]:
   Mr. Solomon continued to play an important role in me graduating from high school. I remember that for about a month after the incident he would show up randomly on my first period. Looking back, I think that was his discreet way of making sure I made it to school okay and that I was alright.
 
+[^3]:
+  A Korean word meaning an older mentor/alumni of the same path taken in life. It's a respectful term, there are no English equivalent.
+ 
 
 
 
