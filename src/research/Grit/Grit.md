@@ -48,7 +48,7 @@ Somehow this small award manages to make me smile and beam with pride, every tim
 
 > Hi, Did you by chance set up the Triumph Award at Northern Secondary School? -Jude
 
-With this random message I found Emily Mills on LinkedIn, and asked to meet her for coffee. Crazily enough, she said yes.
+With this random message I found Emily Mills, the founder of the Triumph Award on LinkedIn, and asked to meet her for coffee. Crazily enough, she said yes.
 
 Emily Mills is the Founder of <a href="https://howshehustles.com/" title="Link to How She Hustles Organization'" target="_blank" rel="noopener noreferrer">How She Hustles</a> - An international network that connects over 5000 diverse women through special events and social media. She is the winner of Women’s Executive Network's Top 100 Canada's Most Powerful Women Award, as well as 100 Accomplished Black Canadian (ABC) Women list. She also happened to have set up the Triumph Award in her final year in high school for future students. 
 
