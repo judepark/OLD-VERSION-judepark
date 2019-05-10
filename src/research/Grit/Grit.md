@@ -1,7 +1,7 @@
 ---
-path: "/grit"
+path: "/my-triumph-award"
 date: "2019-02-01"
-title: "Grit: The Determination to Stand Back Up"
+title: "My Triumph Award - How I Met Emily Mills the Founder of How She Hustles"
 author: "Jude Park"
 template: "research"
 ---
