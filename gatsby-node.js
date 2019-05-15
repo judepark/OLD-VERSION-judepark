@@ -44,7 +44,7 @@ exports.createPages = ({actions, graphql}) => {
             if (node.frontmatter.template === 'research') {
                 createPage({
                     path: node.frontmatter.path,
-                    component: researchTemplate,
+                    component: researchTemplate,z
             })
         }
     })

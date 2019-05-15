@@ -15,6 +15,9 @@ Following the KonMari philosophy, I was cleaning out the documents in my apartme
 
 ####**Triumph Award**: This award celebrates the outstanding spirit and determination of a graduating student (or students) who has overcome great personal challenges in order to achieve academic success.
 
+![Triumph Award Plaque](../1.jpg)
+
+
 ![grit](https://66.media.tumblr.com/5feb7d07764da32b2ae8ba7ffaafc54b/tumblr_pr9bly5MoU1taz7avo1_1280.jpg "Triumph Award Plaque")
 <small>The Triumph Award</small>
 
@@ -64,7 +67,7 @@ I can't speak for her but for me I took away 3 things from my meeting with her:
 
 It's amazing how cleaning your room can lead to so much revelations and opportunities. I look forward to my next adventure. Thank you Emily for meeting with me! 
 
-![grit](https://66.media.tumblr.com/eb7af32548a77568c673df2503344a66/tumblr_pr9blqjx3t1taz7avo1_1280.jpg "Emily Mills")
+![grit](https://instagram.fybz2-2.fna.fbcdn.net/vp/368485a815c64233cddbd1e6c227f9e3/5D53D107/t51.2885-15/e35/58411078_130672051363988_1387429584737956964_n.jpg?_nc_ht=instagram.fybz2-2.fna.fbcdn.net "Emily Mills")
 <small>My Seonbae and me</small>
 
 
